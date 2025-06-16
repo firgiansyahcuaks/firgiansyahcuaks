@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Raven!
 
-![Banner](https://raw.githubusercontent.com/firgiansyahcuaks/rgb-game/main/banner.gif)
-
+https://github.com/firgiansyahcuaks/firgiansyahcuaks/blob/main/banner.gif
 ## 🧑‍💻 About Me
 - **Nama:** Raven Firgiansyah
 - **Umur:** 20 tahun
