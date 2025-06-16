@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Raven!
 
-<!--
-**firgiansyahcuaks/firgiansyahcuaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://raw.githubusercontent.com/firgiansyahcuaks/rgb-game/main/banner.gif)
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
+- **Nama:** Raven Firgiansyah
+- **Umur:** 20 tahun
+- **Email:** ravenaja3@gmail.com
+- **Motto:** Gak ada yang gabisa, lu aja yang mageran.
+- **Skill:** Java, Python, HTML, UI/UX, Pixel Art
+- **Tools:** VS Code, GitHub, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Tujuan
+- Bikin game simple & keren
+- Belajar animasi dan frontend
+- Aktif di open-source
+
+## 📫 Kontak
+- GitHub: [firgiansyahcuaks](https://github.com/firgiansyahcuaks)
+- Email: ravenaja3@gmail.com
