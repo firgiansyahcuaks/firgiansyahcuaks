@@ -1,7 +1,5 @@
-![Banner](https://raw.githubusercontent.com/firgiansyahcuaks/firgiansyahcuaks/main/banner.gif)
-
 # 👋 Halo WORLD, I'M Raven Firgiansyah!
-
+![Banner](https://raw.githubusercontent.com/firgiansyahcuaks/firgiansyahcuaks/main/banner.gif)
 - 🧠 Umur: 20 tahun  
 - 🎓 Mahasiswa  
 - 💻 Sering ngoding pake Java, HTML, dan Python  
