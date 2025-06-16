@@ -1,19 +1,22 @@
-# 👋 Hi, I'm Raven!
+![Banner](https://raw.githubusercontent.com/firgiansyahcuaks/firgiansyahcuaks/main/banner.gif)
 
-https://github.com/firgiansyahcuaks/firgiansyahcuaks/blob/main/banner.gif
-## 🧑‍💻 About Me
-- **Nama:** Raven Firgiansyah
-- **Umur:** 20 tahun
-- **Email:** ravenaja3@gmail.com
-- **Motto:** Gak ada yang gabisa, lu aja yang mageran.
-- **Skill:** Java, Python, HTML, UI/UX, Pixel Art
-- **Tools:** VS Code, GitHub, Figma
+# 👋 Halo WORLD, I'M Raven Firgiansyah!
 
-## 🎯 Tujuan
-- Bikin game simple & keren
-- Belajar animasi dan frontend
-- Aktif di open-source
+- 🧠 Umur: 20 tahun  
+- 🎓 Mahasiswa  
+- 💻 Sering ngoding pake Java, HTML, dan Python  
+- 🎮 Suka ngerjain proyek kecil-kecilan kayak game RGB  
+- 📍 Domisili: Indonesia  
+- 📱 Perangkat: Laptop ASUS + HP iPhone XR  
+- 🔥 Karakteristik: Nggak bisa diem, kalau ngerjain harus sampe bisa  
+- 🧩 Tujuan GitHub: Buat portofolio pribadi + belajar open-source  
+- 🚧 Tantangan: Kadang males, kadang kayang
 
-## 📫 Kontak
-- GitHub: [firgiansyahcuaks](https://github.com/firgiansyahcuaks)
+## 💬 Motto Hidup
+> *"Gak ada yang gak bisa, yang ada lu-nya aja yang mageran."*
+
+---
+
+### 📫 Kontak
 - Email: ravenaja3@gmail.com
+- GitHub: [firgiansyahcuaks](https://github.com/firgiansyahcuaks)
